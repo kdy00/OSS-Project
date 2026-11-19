@@ -22,6 +22,8 @@ Every unit of work, whether it is a feature, a bug fix, a test, documentation, o
 
 If you find a problem while working on another issue, open a new issue for it instead of fixing it silently in an unrelated pull request.
 
+Small documentation changes, such as fixing typos or reflecting a decision the team has already made (for example, the project name), may be made with a pull request without opening an issue first. The pull request must still explain what changed and why, and it still needs a review before merging.
+
 ## Project board
 
 We track all issues on our [GitHub Projects board]([Board URL]). Each issue moves through these columns:
