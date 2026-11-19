@@ -3,9 +3,6 @@
 <!-- TODO: Replace every [TBD] item with the team's final decision, then delete this comment. -->
 
 # [Project Name — TBD]
-
-![CI](https://github.com/[OWNER]/[REPO]/actions/workflows/ci.yml/badge.svg)
-
 > Track down the culprit by following the traces left in a database, one SQL query at a time.
 
 **[Project Name]** is a desktop detective game in which the player investigates a case by writing SQL queries against a case database, collecting clues, and naming the culprit. It is built with Python and Tkinter and runs locally on your own computer.
