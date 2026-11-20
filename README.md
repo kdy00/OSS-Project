@@ -146,7 +146,7 @@ Game logic (`case_loader.py`, `database.py`, `game.py`) does not depend on the u
 2. The assignee works on a **branch** and verifies the change locally.
 3. The assignee opens a **pull request** linked to the issue and describes how the change was verified.
 4. **Another team member reviews** the pull request; requested changes are addressed before merging.
-5. Progress is tracked on our [GitHub Projects board]([Board URL]) (Backlog → Ready → In progress → In review → Done).
+5. Progress is tracked on our [GitHub Projects board](https://github.com/users/kdy00/projects/2) (Backlog → Ready → In progress → In review → Done).
 
 The `main` branch is protected and cannot be merged into without an approved review.
 
