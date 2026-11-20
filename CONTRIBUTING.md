@@ -1,6 +1,6 @@
 <!-- TODO: Replace every [TBD] item with the team's decision, then delete this comment. -->
 
-# Contributing to [Project Name]
+# Contributing to SQLUE
 
 Thank you for your interest in contributing. This document describes how our team works, so that every change goes through the same process: **issue → branch → pull request → peer review → merge**.
 
