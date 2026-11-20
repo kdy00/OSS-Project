@@ -59,8 +59,8 @@ This game lets players experience SQL not as **syntax to memorize** but as **a t
 
 ```bash
 # 1. Clone the repository
-git clone [Repo URL].git
-cd [REPO]
+git clone https://github.com/kdy00/SQLUE.git
+cd SQLUE
 
 # 2. Start the game
 python -m [package-name]
@@ -160,7 +160,7 @@ The `main` branch is protected and cannot be merged into without an approved rev
 Bug reports and suggestions are welcome.
 
 - Please read [CONTRIBUTING.md](CONTRIBUTING.md) before contributing.
-- Open issues in [Issues]([Repo URL]/issues) using the issue template.
+- Open issues in [Issues](https://github.com/kdy00/SQLUE/issues) using the issue template.
 - All participants are expected to follow our [Code of Conduct](CODE_OF_CONDUCT.md).
 
 ## Team
