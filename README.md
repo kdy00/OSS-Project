@@ -2,10 +2,10 @@
 
 <!-- TODO: Replace every [TBD] item with the team's final decision, then delete this comment. -->
 
-# [Project Name — TBD]
+# SQLUE
 > Track down the culprit by following the traces left in a database, one SQL query at a time.
 
-**[Project Name]** is a desktop detective game in which the player investigates a case by writing SQL queries against a case database, collecting clues, and naming the culprit. It is built with Python and Tkinter and runs locally on your own computer.
+**SQLUE** is a desktop detective game in which the player investigates a case by writing SQL queries against a case database, collecting clues, and naming the culprit. It is built with Python and Tkinter and runs locally on your own computer.
 
 ---
 
@@ -97,7 +97,7 @@ The tests cover the game logic: loading cases, running queries (including blocki
 ## Project structure
 
 ```
-[project-name]/
+ㄴSQLUE/
 ├── README.md
 ├── LICENSE
 ├── CODE_OF_CONDUCT.md
@@ -171,9 +171,9 @@ Industrial Engineering (ITM), Seoul National University of Science and Technolog
 
 | Name | Main responsibilities | GitHub |
 |---|---|---|
-| [Name] | [Responsibilities] | [@ID] |
-| [Name] | [Responsibilities] | [@ID] |
-| [Name] | [Responsibilities] | [@ID] |
+| Kim Dong yeon | Repository setup (#1), SQL execution engine (#4), CI workflow (#8) | [@kdy00](https://github.com/kdy00) |
+| Kim Yun | Case data (#2), answer checking (#5), clue and table screens (#7) | [@yuoonnu](https://github.com/yuoonnu) |
+| Jeong Yeon ji | Case loader (#3), main screen (#6) | [@jyg061201-cyber](https://github.com/jyg061201-cyber) |
 
 ## License
 
