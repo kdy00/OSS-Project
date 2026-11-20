@@ -1,11 +1,9 @@
-# OSS-Project
-
 <!-- TODO: Replace every [TBD] item with the team's final decision, then delete this comment. -->
 
-# [Project Name — TBD]
+# SQLUE
 > Track down the culprit by following the traces left in a database, one SQL query at a time.
 
-**[Project Name]** is a desktop detective game in which the player investigates a case by writing SQL queries against a case database, collecting clues, and naming the culprit. It is built with Python and Tkinter and runs locally on your own computer.
+**SQLUE** is a desktop detective game in which the player investigates a case by writing SQL queries against a case database, collecting clues, and naming the culprit. It is built with Python and Tkinter and runs locally on your own computer.
 
 ---
 
@@ -59,8 +57,8 @@ This game lets players experience SQL not as **syntax to memorize** but as **a t
 
 ```bash
 # 1. Clone the repository
-git clone [Repo URL].git
-cd [REPO]
+git clone https://github.com/kdy00/SQLUE.git
+cd SQLUE
 
 # 2. Start the game
 python -m [package-name]
@@ -97,7 +95,7 @@ The tests cover the game logic: loading cases, running queries (including blocki
 ## Project structure
 
 ```
-[project-name]/
+SQLUE/
 ├── README.md
 ├── LICENSE
 ├── CODE_OF_CONDUCT.md
@@ -146,7 +144,7 @@ Game logic (`case_loader.py`, `database.py`, `game.py`) does not depend on the u
 2. The assignee works on a **branch** and verifies the change locally.
 3. The assignee opens a **pull request** linked to the issue and describes how the change was verified.
 4. **Another team member reviews** the pull request; requested changes are addressed before merging.
-5. Progress is tracked on our [GitHub Projects board]([Board URL]) (Backlog → Ready → In progress → In review → Done).
+5. Progress is tracked on our [GitHub Projects board](https://github.com/users/kdy00/projects/2) (Backlog → Ready → In progress → In review → Done).
 
 The `main` branch is protected and cannot be merged into without an approved review.
 
@@ -160,20 +158,19 @@ The `main` branch is protected and cannot be merged into without an approved rev
 Bug reports and suggestions are welcome.
 
 - Please read [CONTRIBUTING.md](CONTRIBUTING.md) before contributing.
-- Open issues in [Issues]([Repo URL]/issues) using the issue template.
+- Open issues in [Issues](https://github.com/kdy00/SQLUE/issues) using the issue template.
 - All participants are expected to follow our [Code of Conduct](CODE_OF_CONDUCT.md).
 
 ## Team
 
 Industrial Engineering (ITM), Seoul National University of Science and Technology · Open Source Software team project
 
-<!-- TODO: Fill in once roles are finalized. -->
 
 | Name | Main responsibilities | GitHub |
 |---|---|---|
-| [Name] | [Responsibilities] | [@ID] |
-| [Name] | [Responsibilities] | [@ID] |
-| [Name] | [Responsibilities] | [@ID] |
+| Kim Dong yeon | Repository setup (#1), SQL execution engine (#4), CI workflow (#8) | [@kdy00](https://github.com/kdy00) |
+| Kim Yun | Case data (#2), answer checking (#5), clue and table screens (#7) | [@yuoonnu](https://github.com/yuoonnu) |
+| Jeong Yeon ji | Case loader (#3), main screen (#6) | [@jyg061201-cyber](https://github.com/jyg061201-cyber) |
 
 ## License
 
