@@ -12,11 +12,13 @@ Every unit of work, whether it is a feature, a bug fix, a test, documentation, o
 
 1. Open a new issue and choose the **Task** template.
 2. Fill in every section of the template:
-   - **Goal**: what becomes possible when the task is done
-   - **Scope**: what is included and what is not included
-   - **Assignee / Reviewer**: the responsible student and a reviewer who is not the assignee
+   - **Goal**: what will exist or work when the task is done
+   - **Background**: context a teammate needs, such as design decisions and related issues (delete it if the goal is self-explanatory)
+   - **Scope**: what is in scope and what is out of scope, with the issue number that covers anything left out
+   - **Responsible student**: the student who owns the issue, and a reviewer who is not that student
    - **Acceptance criteria**: observable conditions that show the task is complete
    - **Dependencies**: issues that must be finished first, or "None"
+   - **Notes for review**: what the reviewer should check, and how
 3. Assign the responsible student in the issue's **Assignees** sidebar as well, not only in the issue text.
 4. Keep each issue small enough for one person to finish and for another person to review.
 
