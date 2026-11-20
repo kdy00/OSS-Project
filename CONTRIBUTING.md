@@ -26,7 +26,7 @@ Small documentation changes, such as fixing typos or reflecting a decision the t
 
 ## Project board
 
-We track all issues on our [GitHub Projects board]([Board URL]). Each issue moves through these columns:
+We track all issues on our [GitHub Projects board](https://github.com/users/kdy00/projects/2). Each issue moves through these columns:
 
 | Column | Meaning |
 |---|---|
