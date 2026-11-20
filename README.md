@@ -1,5 +1,3 @@
-# OSS-Project
-
 <!-- TODO: Replace every [TBD] item with the team's final decision, then delete this comment. -->
 
 # SQLUE
@@ -97,7 +95,7 @@ The tests cover the game logic: loading cases, running queries (including blocki
 ## Project structure
 
 ```
-ㄴSQLUE/
+SQLUE/
 ├── README.md
 ├── LICENSE
 ├── CODE_OF_CONDUCT.md
@@ -167,7 +165,6 @@ Bug reports and suggestions are welcome.
 
 Industrial Engineering (ITM), Seoul National University of Science and Technology · Open Source Software team project
 
-<!-- TODO: Fill in once roles are finalized. -->
 
 | Name | Main responsibilities | GitHub |
 |---|---|---|
